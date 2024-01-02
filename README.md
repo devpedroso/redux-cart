@@ -1,6 +1,7 @@
 # 📊 Redux shopping
 
-Loja de tênis com carrinho de compras utilizando Redux para gerenciamento de estados globais. Tanto o Redux convencional, quanto o Redux Toolkit foram utilizados nesse projeto para fins de estudo.
+Loja de tênis com carrinho de compras utilizando Redux para gerenciamento de estados globais.
+Tanto o Redux convencional, quanto o Redux Toolkit foram utilizados nesse projeto para fins de estudo.
 
 ![ezgif com-video-to-gif-converter](https://github.com/devpedroso/redux-cart/assets/47677411/da86b4e1-18e7-4c37-bc84-41d117915007)
 
